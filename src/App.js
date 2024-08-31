@@ -96,11 +96,11 @@ function Projects() {
   const batteryMeterPCBImg = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEaFr9h97qTh1z-KhhmFDC0AySgsOfDvbvlw&s"; 
   const batteryMeterPCB = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDL8ctKb9WCIxSnpkyzXvKlTxQ6wKCKjuikA&s";
   const urlShortener = "https://github.com/AnindD/URL-Shortener";
-  const urlShortenerImg = "https://media.discordapp.net/attachments/748183545297502269/1278853386938089512/FrontpageURLShortener-300x300.png?ex=66d25087&is=66d0ff07&hm=0adbb8422fe9af4071896cc44cfc6354be32acf153973caf72a7d331e7b0521f&=&format=webp&quality=lossless"; 
+  const urlShortenerImg = "https://store-images.s-microsoft.com/image/apps.442.af77fb88-e832-4f19-9938-a58718639b61.66f74023-1772-4ae8-9586-ede3a041eeda.9d3cca06-4012-4530-84f2-85d57e998960"; 
   const portfolio = "https://github.com/AnindD/personalportfolioproject";
-  const portfolio_img = "https://media.discordapp.net/attachments/748183545297502269/1278854157675008023/download_1.png?ex=66d2513f&is=66d0ffbf&hm=96093f3774ad7100304d28474842703fb22ede64f2cd74de798fcd41382deca0&=&format=webp&quality=lossless&width=592&height=592";
+  const portfolio_img = "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/392/thumb/930adc5ed398-hackmtyMLH_300x300.png?1467906271";
   const propel = "https://devpost.com/software/propel-r52yae"; 
-  const propelImg = "https://media.discordapp.net/attachments/748183545297502269/1278854950897713213/image.png?ex=66d251fc&is=66d1007c&hm=92592cbfb5a502a07aef3d968617405e29e433fbfcbe2d4c91c56d8d494ece48&=&format=webp&quality=lossless";
+  const propelImg = "https://site.aace.org/wp-content/uploads/2018/04/Book-Icon.png";
   const cognition = "https://github.com/AnindD/Mike-Anindit-s-Discord-Bot-"; 
   const cognitionImg = "https://www.deque.com/wp-content/uploads/2019/10/cognitive.png"; 
   const predator_vs_casualty = "https://devpost.com/software/predators-vs-casualty?ref_content=user-portfolio&ref_feature=in_progress"; 
@@ -109,7 +109,7 @@ function Projects() {
   const projectile_motion_gameImg = "https://media.discordapp.net/attachments/748183545297502269/1278893447624917013/image.png?ex=66d275d6&is=66d12456&hm=b6b5bd212ccd9cfc17a4d77ace24e1b190c62576e6825d1cb92008e47893c22c&=&format=webp&quality=lossless"; 
   return ( 
     <React.Fragment>
-      <h3>Hardware Projects</h3>
+      <h3 id="CardTitle" >Hardware Projects</h3>
       <div id="CardGroupTwo">
         <a href={grabNGlide} target="_blank">
           <Card id="ProjectCard">
@@ -130,7 +130,7 @@ function Projects() {
           </Card>
         </a>
       </div>
-      <h3>Web Development Projects</h3>
+      <h3 id="CardTitle">Web Development Projects</h3>
       <div id="CardGroupTwo">
         <a href={urlShortener} target="_blank">
           <Card id="ProjectCard">
@@ -151,7 +151,7 @@ function Projects() {
           </Card>
         </a>
       </div>
-      <h3>Other Software Projects</h3>
+      <h3 id="CardTitle">Other Software Projects</h3>
       <div id="CardGroupThree">
         <a href={propel} target="_blank">
           <Card id="ProjectCard">
