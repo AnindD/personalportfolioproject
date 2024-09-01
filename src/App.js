@@ -96,17 +96,17 @@ function Projects() {
   const batteryMeterPCBImg = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEaFr9h97qTh1z-KhhmFDC0AySgsOfDvbvlw&s"; 
   const batteryMeterPCB = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDL8ctKb9WCIxSnpkyzXvKlTxQ6wKCKjuikA&s";
   const urlShortener = "https://github.com/AnindD/URL-Shortener";
-  const urlShortenerImg = "https://store-images.s-microsoft.com/image/apps.442.af77fb88-e832-4f19-9938-a58718639b61.66f74023-1772-4ae8-9586-ede3a041eeda.9d3cca06-4012-4530-84f2-85d57e998960"; 
+  const urlShortenerImg = "https://github.com/AnindD/personalportfolioproject/blob/master/pictures/urlshortener.png?raw=true"; 
   const portfolio = "https://github.com/AnindD/personalportfolioproject";
-  const portfolio_img = "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/392/thumb/930adc5ed398-hackmtyMLH_300x300.png?1467906271";
+  const portfolio_img = "https://github.com/AnindD/personalportfolioproject/blob/master/pictures/portfolio.png?raw=true";
   const propel = "https://devpost.com/software/propel-r52yae"; 
-  const propelImg = "https://site.aace.org/wp-content/uploads/2018/04/Book-Icon.png";
+  const propelImg = "https://github.com/AnindD/personalportfolioproject/blob/master/pictures/propel.png?raw=true";
   const cognition = "https://github.com/AnindD/Mike-Anindit-s-Discord-Bot-"; 
   const cognitionImg = "https://www.deque.com/wp-content/uploads/2019/10/cognitive.png"; 
   const predator_vs_casualty = "https://devpost.com/software/predators-vs-casualty?ref_content=user-portfolio&ref_feature=in_progress"; 
   const predator_vs_casualtyImg = "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/543/144/datas/gallery.jpg";
   const projectile_motion_game = "https://github.com/AnindD/ICS3U1-Culminating"; 
-  const projectile_motion_gameImg = "https://media.discordapp.net/attachments/748183545297502269/1278893447624917013/image.png?ex=66d275d6&is=66d12456&hm=b6b5bd212ccd9cfc17a4d77ace24e1b190c62576e6825d1cb92008e47893c22c&=&format=webp&quality=lossless"; 
+  const projectile_motion_gameImg = "https://github.com/AnindD/personalportfolioproject/blob/master/pictures/projectilemotion.png?raw=true"; 
   return ( 
     <React.Fragment>
       <h3 id="CardTitle" >Hardware Projects</h3>
