@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/personalportfolioproject/static/css/main.d9f0a81e.css",
-    "main.js": "/personalportfolioproject/static/js/main.97b1f4ca.js",
+    "main.js": "/personalportfolioproject/static/js/main.1b58c427.js",
     "static/js/453.b956128c.chunk.js": "/personalportfolioproject/static/js/453.b956128c.chunk.js",
+    "static/media/batterychargerpcb.png": "/personalportfolioproject/static/media/batterychargerpcb.2b8377dae9effc424829.png",
+    "static/media/rfamplifier.png": "/personalportfolioproject/static/media/rfamplifier.9bf6781a584073e1ada5.png",
     "index.html": "/personalportfolioproject/index.html",
     "main.d9f0a81e.css.map": "/personalportfolioproject/static/css/main.d9f0a81e.css.map",
-    "main.97b1f4ca.js.map": "/personalportfolioproject/static/js/main.97b1f4ca.js.map",
+    "main.1b58c427.js.map": "/personalportfolioproject/static/js/main.1b58c427.js.map",
     "453.b956128c.chunk.js.map": "/personalportfolioproject/static/js/453.b956128c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d9f0a81e.css",
-    "static/js/main.97b1f4ca.js"
+    "static/js/main.1b58c427.js"
   ]
 }
